@@ -6,7 +6,7 @@ namespace AllThingsUnitTests
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Maggie!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
